@@ -4,54 +4,54 @@
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 
 #EXTINF:-1 tvg-logo="http://vtr.com/hd/images/canales/855.jpg" group-title="Deportes",CDF (solo partidos) 
-http://stream.ssh101.com:1935/live/lalolanda1119/chunklist.m3u8#ByCrissHD
+http://stream.ssh101.com:1935/live/lalolanda1119/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://vtr.com/hd/images/canales/855.jpg" group-title="Deportes",CDF 2 (solo partidos)
-http://stream.ssh101.com:1935/live/rtsports/chunklist.m3u8#ByCrissHD
+http://stream.ssh101.com:1935/live/rtsports/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vtr.com/hd/images/canales/707.jpg" group-title="Nacionales",TVN 
-http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?#ByCrissHD
+http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?
 
 #EXTINF:-1 tvg-logo="https://vtr.com/hd/images/canales/709.jpg" group-title="Nacionales",Megavisión
 http://mdstrm.com/live-stream-playlist-v/53d2c1a32640614e62a0e000.m3u8
 
 #EXTINF:-1 tvg-logo="https://vtr.com/hd/images/canales/709.jpg" group-title="Nacionales",Megavisión 2
-http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8#ByCrissHD
+http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
 
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-lared.png" group-title="Nacionales",La Red
-http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone&amp;Referer=http://d1e8b5coppv0r9.cloudfront.net#ByCrissHD
+http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone&amp;Referer=http://d1e8b5coppv0r9.cloudfront.net
 
 #EXTINF:-1 tvg-logo="https://vtr.com/hd/images/canales/711.jpg" group-title="Nacionales",CHV 1
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8#ByCrissHD
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
 
 #EXTINF:-1 tvg-logo="https://vtr.com/hd/images/canales/711.jpg" group-title="Nacionales",CHV 2
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8#ByCrissHD
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
 
 #EXTINF:-1 tvg-logo="https://vtr.com/hd/images/canales/711.jpg" group-title="Nacionales",CHV 3
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvMi.m3u8#ByCrissHD
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvMi.m3u8
 
 #EXTINF:-1 tvg-logo="https://vtr.com/hd/images/canales/711.jpg" group-title="Nacionales",CHV 4
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvLow.m3u8#ByCrissHD
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvLow.m3u8
 
 #EXTINF:-1 tvg-logo="https://vtr.com/hd/images/canales/711.jpg" group-title="Nacionales",CHV 5
-http://live.hls.http.chv.ztreaming.com/chvhdtablet/chv-tablet.m3u8#ByCrissHD
+http://live.hls.http.chv.ztreaming.com/chvhdtablet/chv-tablet.m3u8
 
 #EXTINF:-1 tvg-logo="https://vtr.com/hd/images/canales/711.jpg" group-title="Nacionales",CHV 6
-http://mi.chv.cl/playlist/stream.m3u8?s=hd#ByCrissHD
+http://mi.chv.cl/playlist/stream.m3u8?s=hd
 
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="Nacionales",Canal 13 1
-http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8#ByCrissHD
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="Nacionales",Canal 13 2 
-http://13.live.cdn.cl/13hddesktop/13hd-900.m3u8#ByCrissHD
+http://13.live.cdn.cl/13hddesktop/13hd-900.m3u8
 
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="Nacionales",Canal 13 3
-http://13.live.cdn.cl/13hddesktop/13hd-632.m3u8#ByCrissHD
+http://13.live.cdn.cl/13hddesktop/13hd-632.m3u8
 
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="Nacionales",Canal 13 Movil
-http://cdn.ztreaming.com/t13vivo3/mobile.m3u8#ByCrissHD
+http://cdn.ztreaming.com/t13vivo3/mobile.m3u8
 
-http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd#ByCrissHD
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd
 
 #EXTINF:0 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-teletrak.png" group-title="Nacionales",Teletrak
-http://edge1.cl.grupoz.cl/teletrakmovil/smil:mobile.smil/chunklist_w424394273_b750000_slesp.m3u8#ByCrissHD
+http://edge1.cl.grupoz.cl/teletrakmovil/smil:mobile.smil/chunklist_w424394273_b750000_slesp.m3u8
