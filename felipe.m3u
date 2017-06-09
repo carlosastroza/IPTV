@@ -12,20 +12,11 @@ http://stream.ssh101.com:1935/live/rtsports/chunklist.m3u8#ByCrissHD
 #EXTINF:-1 tvg-logo="https://vtr.com/hd/images/canales/707.jpg" group-title="Nacionales",TVN 
 http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?#ByCrissHD
 
-#EXTINF:-1 tvg-logo="https://vtr.com/hd/images/canales/709.jpg" group-title="Nacionales",Mega 1
+#EXTINF:-1 tvg-logo="https://vtr.com/hd/images/canales/709.jpg" group-title="Nacionales",Megavisión
 http://mdstrm.com/live-stream-playlist-v/53d2c1a32640614e62a0e000.m3u8
 
-#EXTINF:-1 tvg-logo="https://vtr.com/hd/images/canales/709.jpg" group-title="Nacionales",Mega 2
+#EXTINF:-1 tvg-logo="https://vtr.com/hd/images/canales/709.jpg" group-title="Nacionales",Megavisión 2
 http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8#ByCrissHD
-
-#EXTINF:-1 tvg-logo="https://vtr.com/hd/images/canales/709.jpg" group-title="Nacionales",Mega 3
-http://mdstrm.com/live-stream-playlist/5614309a434aff1309a9d904.m3u8?#ByCrissHD
-
-#EXTINF:-1 tvg-logo="https://vtr.com/hd/images/canales/709.jpg" group-title="Nacionales",Mega 4
-http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?#ByCrissHD
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-YEjIIj8xuXo/WCsRZwvXK_I/AAAAAAAAnC4/C1Rdee9JTR4c25aDx20a-0BDqVtsl7NjwCLcB/s300/megatv-megavision-chile.png" group-title="CHILE",Mega Otro
-http://edge-10-ak.mdstrm.com/i/mediastream01_hls@119683/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-lared.png" group-title="Nacionales",La Red
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone&amp;Referer=http://d1e8b5coppv0r9.cloudfront.net#ByCrissHD
